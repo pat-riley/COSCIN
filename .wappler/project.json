@@ -31,5 +31,6 @@
     }
   ],
   "activeTarget": "whispering-waters-03568",
-  "projectServerModel": "node"
+  "projectServerModel": "node",
+  "npmInstall": true
 }
