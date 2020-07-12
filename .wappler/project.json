@@ -22,5 +22,13 @@
     }
   ],
   "projectType": "web",
-  "targets": []
+  "targets": [
+    {
+      "targetType": "heroku",
+      "name": "Heroky-test-server",
+      "herokuProjectID": "coscin-test",
+      "remoteURL": "https://coscin-test.herokuapp.com"
+    }
+  ],
+  "activeTarget": "Heroky-test-server"
 }
