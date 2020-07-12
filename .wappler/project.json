@@ -26,9 +26,10 @@
     {
       "targetType": "heroku",
       "name": "whispering-waters-03568",
-      "herokuProjectID": "whispering-waters-03568",
-      "remoteURL": "https://whispering-waters-03568.herokuapp.com"
+      "remoteURL": "https://whispering-waters-03568.herokuapp.com",
+      "herokuProjectID": "whispering-waters-03568"
     }
   ],
-  "activeTarget": "whispering-waters-03568"
+  "activeTarget": "whispering-waters-03568",
+  "projectServerModel": "node"
 }
