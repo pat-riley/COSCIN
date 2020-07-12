@@ -25,10 +25,10 @@
   "targets": [
     {
       "targetType": "heroku",
-      "name": "Heroky-test-server",
-      "herokuProjectID": "coscin-test",
-      "remoteURL": "https://coscin-test.herokuapp.com"
+      "name": "whispering-waters-03568",
+      "herokuProjectID": "whispering-waters-03568",
+      "remoteURL": "https://whispering-waters-03568.herokuapp.com"
     }
   ],
-  "activeTarget": "Heroky-test-server"
+  "activeTarget": "whispering-waters-03568"
 }
